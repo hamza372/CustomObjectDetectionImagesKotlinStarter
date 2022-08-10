@@ -1,0 +1,4 @@
+#Wed Aug 10 12:26:12 PKT 2022
+base.0=C\:\\Users\\hamza\\OneDrive\\Desktop\\ObjectDetectionAppSection\\ObjectDetectionImages\\Starter\\ObjectDetectionKotlinImagesStarter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
